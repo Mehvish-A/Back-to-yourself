@@ -1,0 +1,42 @@
+
+.root {
+    --themecolor:  #788a7c;
+    --headinglcolor:  #6ed198;
+    --headingcolorbar:  #6c757d;
+}
+.navsmall {
+    font-size: 14px;
+}
+.navbar {
+    background-color: #788a7c !important;
+}
+.banner{
+    background-image: url(nav-image.jpg) !important;
+    background-size: cover;
+    height: 400px;
+    
+}
+.btn{
+    border-radius: 0;
+    text-transform: uppercase;
+}
+
+
+.card{
+    background-color: #788a7c !important;
+}
+.logo{
+    height: 65px;
+    width: 65px;
+
+}
+.headingGreen{
+    color: #6ed198;
+}
+.section4{
+    background-color: #788a7c !important; 
+}
+.section7{
+    background-color: #788a7c !important; 
+}
+
